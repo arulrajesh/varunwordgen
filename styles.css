@@ -16,11 +16,12 @@ body.dark-mode .form-select {
     background-color: #333;
     color: #f8f9fa;
 }
-.footer{
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height:100px;
-    background:#ccc;
+
+p{
+    margin: 0%;
+}
+
+.btn-start-running {
+    background-color: #dc3545;
+    border-color: #dc3545;
 }
